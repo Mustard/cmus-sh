@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+HOST='minime'
+PORT='9898'
+PASSWORD='foobar'
+

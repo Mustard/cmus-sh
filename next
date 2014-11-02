@@ -1,0 +1,5 @@
+#!/bin/bash 
+
+source CONFIG
+
+cmus-remote --server "${HOST}:${PORT}" --passwd "${PASSWORD}" --next
